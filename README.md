@@ -14,6 +14,6 @@ User is not allow to withdraw or transfer more than the balance amount. A minimu
 If user key in the wrong pin more than 3 times, the bank account will be locked.
 Assumption:
 All bank account are the from the same bank
-Activity Diagram
-atm_activity_diagram
+![image](https://user-images.githubusercontent.com/33926922/166640768-5fbc48ad-991d-4ca1-9101-c20f94811440.png)
+
 
